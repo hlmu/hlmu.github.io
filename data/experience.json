@@ -2,12 +2,12 @@
     {
         "role":"Intern",
         "company":"Huawei Technologies Co., Ltd.",
-        "summary":"Work on context compression and evaluation of Tool-assisted LLMs.",
+        "summary":"Work on context compression and evaluation of Tool-assisted LLMs. Supervised by Dr. [Yutai Hou](https://atmahou.github.io/) and Dr. [Yitong Li](https://lrank.github.io/).",
         "range":"May 2023 - Present"
     },
     {
         "role":"Developer",
-        "company":"Huozi LLM Project.",
+        "company":"Huozi LLM Project",
         "summary":"Responsible for the front-end of the **[Huozi(活字) LLM](http://huozi.8wss.com/)**, a Chinese LLM developed by HIT-SCIR.",
         "range":"April 2023 - Present"
     },

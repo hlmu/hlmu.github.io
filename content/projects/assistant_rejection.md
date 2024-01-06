@@ -2,6 +2,7 @@
 title: "Huawei-HIT Joint Laboratory - Multimodal Voice Assistant Rejection Project"
 link: NA
 range: October 2021 - November 2022
+date: 2021-10-01
 # image: "/img/deploysonly.webp"
 description: >-
     <li>Developed models to distinguish interference (like non-targeted voice assistant speech or background noise) during continuous multi-round dialogue listening by voice assistants.</li>
