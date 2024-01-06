@@ -1,0 +1,9 @@
+[
+  {
+      "grouping":"Deep Learning",
+      "skills":[ "PyTorch","Megatron","Hugging Face","Fairseq"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Python","C++","Java","javascript","LaTeX","git","linux","Docker"]
+  }
+]

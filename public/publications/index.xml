@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Honglin Mu</title>
+    <link>https://resume.mhlwsk.com/publications/</link>
+    <description>Recent content in Publications on Honglin Mu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://resume.mhlwsk.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improving Domain Generalization for Sound Classification with Sparse Frequency-Regularized Transformer</title>
+      <link>https://resume.mhlwsk.com/publications/frito/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://resume.mhlwsk.com/publications/frito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixPro: Simple yet Effective Data Augmentation for Prompt-based Learning</title>
+      <link>https://resume.mhlwsk.com/publications/mixpro/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://resume.mhlwsk.com/publications/mixpro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

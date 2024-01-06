@@ -1,0 +1,59 @@
+title = "Honglin Mu"
+baseURL = "https://resume.mhlwsk.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Harbin Institute of Technology"
+email = "pklmu@outlook.com"
+favicon = "/favicon.ico"
+firstName = "Honglin"
+lastName = "Mu"
+profileImage = "img/avatar.jpg"
+showQr = false
+showContact = false
+showSocializations = true
+sections = ["publications","projects","education","experience","certifications","skills"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://linkedin.com/in/honglin-mu-326a47163"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/hlmu/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "production"
+
+# URL specifies the Go Cloud Development Kit URL to deploy to. Examples:
+URL = "<FILL ME IN>"
+
+# Google Cloud Storage -- see https://gocloud.dev/howto/blob/#gcs
+#URL = "gs://<Bucket Name>"
+
+# Amazon Web Services S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+#URL = "s3://<Bucket Name>?region=<AWS region>"
+
+# Microsoft Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
+#URL = "azblob://$web"

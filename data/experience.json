@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Intern",
+        "company":"Huawei Technologies Co., Ltd.",
+        "summary":"Work on context compression and evaluation of Tool-assisted LLMs.",
+        "range":"May 2023 - Present"
+    },
+    {
+        "role":"Developer",
+        "company":"Huozi LLM Project.",
+        "summary":"Responsible for the front-end of the **[Huozi(活字) LLM](http://huozi.8wss.com/)**, a Chinese LLM developed by HIT-SCIR.",
+        "range":"April 2023 - Present"
+    },
+    {
+        "role":"Intern",
+        "company":"Tencent Technology (Shenzhen) Co., Ltd.",
+        "summary":"Participated in code vulnerability prediction DevOps Plugin development.",
+        "range":"July 2020 - September 2020"
+    },
+    {
+        "role":"Team Member",
+        "company":"Harbin Institute of Technology ACM Training Team",
+        "summary":"As a member (and small team leader) of the HIT ACM Training Team, participated in the ACM-ICPC Asia Regional Contest 2018 in Zhengzhou and Beijing (Silver Medal).",
+        "range":"July 2018 - July 2019"
+    }
+]

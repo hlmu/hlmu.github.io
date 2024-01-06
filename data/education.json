@@ -1,0 +1,23 @@
+[
+    {
+        "school":"Harbin Institute of Technology",
+        "degree":"Ph.D. in Computer Science and Technology",
+        "major":"Research Center for Social Computing and Information Retrieval",
+        "notes":"Supervised by Prof. <a href='http://ir.hit.edu.cn/~car/'>Wanxiang Che</a>",
+        "range":"2021 - Present"
+    },
+    {
+        "school":"National University of Singapore",
+        "degree":"Visiting Student",
+        "major":"NUS Summer Workshop project",
+        "notes":"Studied computer vision and deep learning, and engaged in related Raspberry Pi programming",
+        "range":"July 2019"
+    },
+    {
+        "school":"Harbin Institute of Technology",
+        "degree":"Bachelor's in Computer Science and Technology",
+        "major":"School of Computing",
+        "notes":"Honors/Awards: Excellent League Member at the University Level 2018, Second Class People's Scholarship 2019",
+        "range":"2017 - 2021"
+    }
+]

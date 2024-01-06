@@ -1,0 +1,14 @@
+[
+	{
+		"name":"CCF Outstanding College Student Award",
+		"description": "China Computer Federation Outstanding College Student Award 2020",
+		"badge":"https://example.com/example.png",
+		"proof":"https://www.ccf.org.cn/Membership/Individual_member/Honor/ccfxshytsjh/2022-04-13/760668.shtml"
+	},
+	{
+		"name":"ACM-ICPC Asia Regional",
+		"description": "ACM-ICPC Asia Regional Contest 2018 Beijing (Silver Medal)",
+		"badge":"https://example.com/example.png",
+		"proof":"https://icpc.baylor.edu/ICPCID/1F299ZN0PEG2"
+	}
+]
